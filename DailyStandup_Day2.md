@@ -25,6 +25,7 @@ Peter - Finish setting up repository
 Problems:
 Christine - Two READMEs??
 Leo - Time Management (seconded by everyone) Staying on top of all topics, finding enough time to review and pracice
+Aidan - Details about the info on Project 1. Also, losing these notes during our first Stand-Up.
 
 
 

@@ -15,16 +15,16 @@ Peter - Finished setting up rev pro and timesheets
 
 
 Today:
-Aidan
-Henry
-Christine
-Leo
-Peter
+Aidan - Continue working on Project 1, (incorperate ticket request)
+Henry - Start Project 1
+Christine - Work out issues with get, Start project 1
+Leo - Start project 1
+Peter - Finish setting up repository
 
 
 Problems:
 Christine - Two READMEs??
-Leo - Time Management
+Leo - Time Management (seconded by everyone)
 
 
 

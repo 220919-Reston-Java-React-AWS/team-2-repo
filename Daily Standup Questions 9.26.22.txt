@@ -1,0 +1,39 @@
+
+ Daily Standup:
+
+ 1) What did you do yesterday?
+          Aidan: Worked on project 1 and private coding challenges
+          Christine: Prepared for the QC and quiz
+          Henry: Studied for the QC and quiz
+          Leo: Study
+          Peter: Worked on project 
+
+ 2) What will you do today?
+          Aidan: Work on the registration menu
+          Christine: Hoping to get more insight on the project during today's lecture, so I can begin coding. 
+          Henry: Focus on what to do for project 1. Talk to Bach. Review feedback that was given by QC.
+          Leo: Reviewing the miro notes and resources on Revpro
+          Peter: Study the terms missed during the QC. Create differrent classes for project 1.
+
+ 3) What progress are you making on project 1 and are you updating the Trello cards with your status?
+          Aidan: Created user object and company registry. 
+	Trello: No additional updates
+          Christine: No additional progress made
+	Trello: No additiional updates
+          Henry: No progress made so far
+	Trello: No updates beyond what has already been checked off
+          Leo: No progress
+	Trello: No additional updates
+          Peter: Created menu and a switch.
+	Trello: No additional updates
+
+ 4) Are you running into any challenges/issues?
+          Aidan: None
+          Christine: Remembering all topics from last week. It was a heavy training week with a lot of new information
+           thrown my way.
+          Henry: Unsure about how to start executing the project
+          Leo: Trying to catch up on learning the training topics
+          Peter: None
+
+ Created by: CC
+ Date: 9/26/2022

@@ -1,0 +1,19 @@
+Yesterday
+Aidan Shafer: Used intelij to open a new project for Project1
+Henry Garcia: Completed requested coding exercise 
+Christine Colon: Completed the coding challenge, started the use-case outline and practiced working with Git Bash
+Leo Angulo:Learning InteliJ, looking for new note taking system.
+Peter Josevski:Completed Github setup, reviewed project
+
+Today
+Aidan Shafer: Organize project1
+Henry Garcia: Get progress done on project1, Getting started on use case design
+Christine Colon:Today, I plan to complete the use case and start working on the login/register feature. I will also create a study guide consisting of this weeks trainings.
+I am working on the use case outline and watched the Foundations Project video. Status updates on Trello cards are up to date.
+Leo Angulo: Review today's topics
+Peter Josevski:Plan to update trello notes
+
+Problems
+Christine Colon: Still running across issues with Git Bash. Having trouble with the vim command.
+Leo Angulo: Finding more time to practice github commands.
+Peter Josevski: Finding time to practice Java and Gitbash commands.

@@ -1,0 +1,34 @@
+Henry:
+
+Yesterday, I reviewed the topics covered in yesterday's lecture.
+Today I'm planning on doing further review on topics covered in today's training lecture as well as doing some progress on the project.
+The issue I'm currently facing is figuring out what to do on the project now that it's been re-scoped.
+
+Christine:
+
+1) What did they do yesterday? 
+	-Created study guide.
+2) What will they do today? 
+	-Write code and study
+3) What progress are they making on project 1 and are they updating the Trello cards with their status? 
+	-I'm ready to start writing code. Trello cards are up to date.
+4) Are they running into any challenges/issues? 
+	-None to report today.
+
+Peter:
+
+Yesterday I updated the Trello Board and did some studying.
+Today I plan on doing more studying as well as work on the project.
+No challenges besides figuring out what goes where on the project.
+
+Aidan:
+
+I ended up splitting things up on project 1 as well as starting to incorporate age and date of birth.
+I'm going to focus on reviewing the notes to get ready for QC on Monday.
+An issue I'm currently facing is that being confused about reorgainizing project 1.
+
+Leo:
+
+Yesterday, I started on reviweing yesterday's lecture notes and did some practicing on IntelliJ.
+Today, I'll start studying this weekend to prepare for QC.
+An issue I'm facing is trying to get down the concepts of classes and objects.

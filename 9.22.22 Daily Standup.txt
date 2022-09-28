@@ -1,0 +1,25 @@
+Henry Garcia - Progress, Started on project one main menu, reviewed notes from yesterdays lecture, updated Trillo board
+Today will continue looking at menu for the project
+Challenge, figure out how to organize the menus 
+
+Peter Josevski - yesterday set up outline of project with main class and main menue class, updated 
+the Trillo board
+Will research tonight and update the Trillo board
+Challenge, Organizing the menu options and finding the right methods to implement for each of them
+
+Christine Colon - 
+1) What did they do yesterday? Created Git Bash instructions and outline for the login/register, 
+submit ticket and console interface features..
+2) What will they do today? Write code for the login/registration feature and continue working 
+on creating study guide.
+3) What progress are they making on project 1 and are they updating the Trello cards with their 
+status? I'm ready to start writing code. Trello cards are up to date.
+4) Are they running into any challenges/issues? None to report today.
+
+Aidan Shafer - Yesterday updated Trillo board, worked on classes, 
+Today - Look at new requirements on Trillo board and compare to current tasks
+Challeneges - Covering the new requirements and finding out how to do Project 1 again
+
+Leo Angulo - Yesterday worked on looking at requirements for Project 1 and upate Trillo board.
+Today will review notes from todays lecture, look at new Trillo board and work on project 1
+Challenge - Working with classes is new to me so will need to learn how to differentiate between them and methods

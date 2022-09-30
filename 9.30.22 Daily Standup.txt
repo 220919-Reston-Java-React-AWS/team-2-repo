@@ -1,0 +1,30 @@
+Henry:
+-Yesterday, I worked on the Project 1 code.
+-Today, I'll continue working on Project 1.
+-I haven't updated the Trello board.
+-No challenges in particular to report.
+
+Christine:
+-Yesterday, I created my tables on dBeaver.
+-Today, I'll continue working on P1.
+-Created tables. Trello cards are up to date.
+-No challenges/issues to report at this time.
+
+
+Aidan:
+-I made decent progress on project 1.
+-Today I'll start working on the ticket feature.
+-Implemented and tested the login/register feature.
+-One issue is not being able to get my browsers working.
+
+Peter:
+-Yesterday, I coded the core functions of my project and finished SQLBolt lessons.
+-Today, I'll revise my project based on the trainer's critiques.
+-Coded the core functions of project 1. Haven't updated the Trello board.
+-Issues would be organizing the project and database.
+
+Leo:
+-yesterday I went through Wednesday's recording.
+-Today I'll finish going through the recording.
+-I added the dependencies to project 1.
+-A challenge would be keeping up with the pace.

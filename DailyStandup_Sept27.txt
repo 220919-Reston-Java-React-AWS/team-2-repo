@@ -1,0 +1,29 @@
+Christine
+1) Reviewed the QC terms and quiz questions I missed.
+2) Review today's training notes and begin writing code for project 1.
+3) Waiting for Rest API info so I can begin coding. Trello cards are up to date.
+4) Unsure of where to begin with the project
+
+Peter
+1) Studied some of the programming terms yesterday, and also created classes for login, registration, and ticket.
+2) Review training notes, and organize registration, ticket, etc..
+3) No update of Trello Cards
+4) Not sure how to organize tickets, how things should be viewed, and how everything is linked together.
+
+Leo
+1) Went over all stuff on revature pro.
+2) Same and review notes on SQL
+3) No updates to Trello
+4) Getting project one going
+
+Henry
+1) Reviewed QC feedback and worked on installing everything, and email trainer about expectations. 
+2) Will Review training topic and work on Project 1, particularly Javalin.
+3) No updates to Trello
+4) Figuring out how to use Javalin and other applications
+
+Aidan
+1) Worked on the registration class.
+2) Incorperate Javalin and Postman, SQL.
+3) no Update to the Trello board.
+4) Problem not knowing how to incorperate everything yet

@@ -1,0 +1,25 @@
+Peter Josevski:
+1) SQLBolt exercises
+2) Study notes, fill project code, SQLBolt
+3) Trello cards up to date, no progress since weekend
+4) Unsure of what methods to write for project.
+Leo Angelo:
+1) Worked on SQLBolt. Worked on DBeaver.
+2) Begin working on Project 1.
+3) None
+4) No known issues.
+Aidan Shafer:
+1) Went to SQLBolt and did first 9 lessons. Reviewed JavaDBC.
+2) Practicing JavaDBC and SQLBolt
+3) No upadate to Trello cards.
+4) Time management.
+Henry Garcia:
+1) Studied notes and Friday's lecture to be more familer with Javalin
+2) Work on SQLBolt.
+3) Began Javalin for Project 1. Trello cards up to date
+4) Have to restrict access per user.
+Christine Colon:
+1) SQLBolt exercise and reviewed the training notes
+2) Review today's training notes and begin writing code for project 1
+3)Not much progress. Trello cards up to date.
+4) Unsure of where to begin with project.

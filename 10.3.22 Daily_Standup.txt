@@ -1,0 +1,39 @@
+
+ Daily Standup:
+
+ 1) What did you do yesterday?
+          Aidan: Was able to get everything to work
+          Christine: Study
+          Henry: Worked on the project
+          Leo: Worked on the project
+          Peter: Studied week 1/week 2 notes. Started a new version of the project and ready to start testing the code.
+
+ 2) What will you do today?
+          Aidan: Unit testing. Make the code look a bit more professional. 
+          Christine: Writing code for project 1
+          Henry: Work out an issue with the project
+          Leo: Continue working on the project and study
+          Peter: Create the database and hopefully begin testing
+
+ 3) What progress are you making on project 1 and are you updating the Trello cards with your status?
+          Aidan: Project is complete
+	Trello: Up to date 
+          Christine: Not much progress has been made
+	Trello: Up to date
+          Henry: Login/registration complete
+	Trello: Up to date
+          Leo: Created a connection and used the database
+	Trello: Up to date
+          Peter: Not much progress has been made
+	Trello: Up to date
+
+ 4) Are you running into any challenges/issues?
+          Aidan:  None to report
+          Christine: None to report
+          Henry: Figuring out how to automatically set the submitter ID without having to input in manually, so you don't run into issue
+           with user submitting ticket as another user. 
+          Leo: None to report
+          Peter: Writing the code and figuring out what variables to use. 
+
+ Created by: CC
+ Date: 10/3/2022

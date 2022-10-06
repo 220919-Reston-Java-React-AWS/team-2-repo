@@ -1,0 +1,24 @@
+Team 2:
+
+repository: https://github.com/220919-Reston-Java-React-AWS/team-2-repo.git
+
+
+ 
+Yesterday:
+
+Aidan - Get everything set up, started work on Project 1
+Henry - Finished setting up timesheet portal and repository
+Christine - Repository excersizes
+Leo - Review notes and repository excersize
+Peter - Finished setting up rev pro and timesheets
+
+
+
+Today:
+Aidan
+Henry
+Christine
+
+
+
+

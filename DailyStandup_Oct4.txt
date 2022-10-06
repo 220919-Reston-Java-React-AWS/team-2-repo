@@ -1,0 +1,29 @@
+Aidan:
+1) Started writing JUnit test.
+2) Work on more Tests, hopefully test 3 complete files.
+3) No update.
+4) No problems.
+
+Christine:
+1) Studied for 1:1 and QC coding challenge, created databases.
+2) Focus on working on P1
+3) Created tables. Trello cards are up to date.
+4) None to report at this time.
+
+Henry:
+1) Not much - caught a cold.
+2) Recover, Plan on implementing the get 'user from session'.
+3) No update
+4) Sickness, and figuring out how to get id from session.
+
+Leo:
+1) Worked on Project 1 a bit, and went through Bach's code. Tweaked database a bit.
+2) Continue working on project 1 and review todays content.
+3) No Update
+4) Nothing comes to mind.
+
+Peter:
+1) Created the database, and looked over the project requirements. Made an outline of project.
+2) Hope to start on the coding itself.
+3) Looked over the chart for the databases, and updated/checkmarked the outline section.
+4) Struggling to figure out which code to use for the project.

@@ -1,0 +1,25 @@
+Peter Josevski:
+1. Started code for project 1 and redid database.
+2. Continue working on project 1 tonight.
+3.Completed the database and I didn't update the trello cards yet.
+4. None 
+Leo Angulo:
+1. Continued working on projecct. Made models and repositories.
+2.Finish remaining project tasks. Need to update trello card.
+3. Made project models and repositories.
+4. No problems to report.
+Christine Colon:
+1.Studied for 1:n and started writing code for project 1
+2.Continue working on Project 1
+3.Finished building tables for registration/login. Trello cards up to date.
+4.No problems to report at this time.
+Aidan Shafer:
+1.Finished unit testing for service layer, did more Junit testing. Commented code easier to read.
+2. Finish remaining tests for model classes. Figure out how to test control and repo layers.
+3.No update to trello.
+4. Unsure how to test control or repo layers.
+Henry Garcia:
+1. Worked on and finished project 1 addReimbusments function
+2. Finish the process ticket function
+3. Updated trello cards.
+4. UpdateTicket function is difficult to function.

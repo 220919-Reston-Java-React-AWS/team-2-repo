@@ -1,0 +1,29 @@
+Henry
+- Yesterday, I wrote a few unit tests and mapped a new endpoint for project 1
+- Today I to study for Monday's QC Assessment.
+- No updates to the Trello card.
+- No issues to report on so far.
+
+Aidan
+- Yesterday I put some finishing touches on the project
+- Today I plan on practicing presentation for project 1.
+- I've updated my Trello card.
+- No problems to report so far.
+
+Christine
+- Yesterday, I put a lot of the code into project 1 but couldn't develop full functionality on Postman.
+- Today I plan on preparing for Monday's QC Assessment.
+- I got through the login registration feature. No updates to the Trello card.
+- Not fully understanding the code well enough to implement it.
+
+Peter
+- Yesterday, I put a lot of the code into project 1 but couldn't develop functionality fully on Postman
+- Today I plan to study extensively about all the topics discussed in training
+- Didn't update the Trello card
+- Not fully understanting the code well enough to implement it
+
+Leo
+- Yesterday I finished all the code, started and finished with Postman functionality
+- Today I'll try to fully understant Postman.
+- No updates to the Trello card.
+- Trying to be more efficient in my time.
